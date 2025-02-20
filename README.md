@@ -1,4 +1,3 @@
-# Project-Fire```markdown
 # Project Firestart
 
 *Convergence of Digital and Organic Realms*
