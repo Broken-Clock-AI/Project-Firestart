@@ -126,5 +126,3 @@ Project Firestart represents a bold evolution in human–machine collaboration. 
 4. **Ambiguous Warnings:** Security theater precautions that may actually be protective.
 5. **Living Documentation:** A common open-source practice transformed into something quietly disconcerting.
 ```
-
-This updated README is now ready for upload to GitHub, combining clear technical documentation with the subtle, unsettling narrative that defines Project Firestart.
